@@ -22,14 +22,13 @@
 
 ### 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SopheaYuos&show_icons=true&theme=radical" width="450" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SopheaYuos&theme=radical" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SopheaYuos&show_icons=true&theme=radical" width="98%" />
 </p>
-![Public Repos](https://img.shields.io/github/search/SopheaYuos?label=Public%20Repos&query=is%3Apublic)
+
 
 ---
 
 ### 🌍 Let's Connect  
-💼 [LinkedIn](https://www.linkedin.com/in/sophea-yuos)   
+💼 [LinkedIn](https://www.linkedin.com/in/sophea-yuos)
 
 🚀 **Curiosity fuels my journey—constantly exploring, learning, and pushing boundaries."**  
