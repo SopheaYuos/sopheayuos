@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**SopheaYuos/sopheayuos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Sophea! 👋</h1>
+<h3 align="center">🚀 Building scalable SaaS | 💻 Full-Stack Dev | ⚡ Performance Enthusiast</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 About Me  
+- ⚡ **Passionate about performance**, scalable systems & real-time applications  
+- 🏗 **Building a SaaS app** for tenant & room management  
+- 🚀 **Tech Stack:** TypeScript, React, Node.Js, Bun .NET CORE, PostgreSQL 
+- 🔍 Always love exploring **high-performance architectures** and **better state management**  
+-  🧑‍💻Let's Go
+
+---
+
+### 💡 What I Work On  
+🔹 **Frontend**: Optimizing large state trees & improving UX without unnecessary re-renders  
+🔹 **Backend**: Handling **concurrent processing**, **background tasks**, and **streaming large files**  
+🔹 **Insurtech**: Working with **policies, risks, SMIs, covers**, and revamp messy state management, performance and write more testable and maintainable code. 
+
+---
+
+### 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SopheaYuos&show_icons=true&theme=radical" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SopheaYuos&theme=radical" width="450" />
+</p>
+![Public Repos](https://img.shields.io/github/search/SopheaYuos?label=Public%20Repos&query=is%3Apublic)
+
+---
+
+### 🌍 Let's Connect  
+💼 [LinkedIn](https://www.linkedin.com/in/sophea-yuos)   
+
+🚀 **Curiosity fuels my journey—constantly exploring, learning, and pushing boundaries."**  
